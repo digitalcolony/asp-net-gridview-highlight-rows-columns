@@ -26,3 +26,5 @@ bottom: How many rows from the bottom should not have highlighting.
 left: How many rows from the left should not have highlighting.
 
 I dropped the Javascript file inside the same folder in this example. Update the path in the RegisterClientScriptInclude line to point to whatever location you use.
+
+http://i.imgur.com/3N4cca9.png (example) 
