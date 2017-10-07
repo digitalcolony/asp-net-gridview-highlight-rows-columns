@@ -1,8 +1,8 @@
 # Gridview Highlight Rows (`ASP.NET`)
 
-I put this code together around 2005 or so to add row and column highlight to a Gridview control for `ASP.NET` 2.0. 
+I put this code together around 2005 or so to add row and column highlighting to a Gridview control for `ASP.NET` 2.0. 
 
-This code is inspired by Ryan Scherf’s Table Row and Column Highlighting. It’s a slick solution to helping users read tabular data. I thought it would be nice to add that functionality to the ASP.NET. So I created a single function that would add Ryan’s column and row highlighting code to our GridView control.
+This code is inspired by Ryan Scherf’s Table Row and Column Highlighting. It’s a slick solution to helping users read tabular data. I thought it would be nice to add that functionality to ASP.NET. So I created a single function that would add Ryan’s column and row highlighting code to our GridView control.
 
 [Ryan's Demo](http://ryanscherf.net/demos/crosshairs/)
 
