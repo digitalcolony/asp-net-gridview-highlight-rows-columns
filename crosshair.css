@@ -1,12 +1,10 @@
 /* Used with crosshairs.js */
 .hoverHilight {
-    background-color: #ffffc0;
-    color: inherit;
-    cursor: pointer;
+  background-color: #ffffc0;
+  color: inherit;
+  cursor: pointer;
 }
-
 .activeCellHilight {
-    background-color: #c0dbff;
-
-    color: blue;
+  background-color: #c0dbff;
+  color: blue;
 }
